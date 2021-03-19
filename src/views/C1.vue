@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <H1>C2 数据</H1>
+  <div style="background-color: #F1FAFA">
+    <H1 style="background-color:#E8FFE8">C2 数据</H1>
     <ul>
       <li><el-button type="text">C2.1 字符串</el-button></li>
       <li><el-button type="text">C2.2 数组</el-button></li>

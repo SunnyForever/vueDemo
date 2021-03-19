@@ -52,6 +52,9 @@ export default {
         },
         {
           chapterName: 'C11 UI一致性'
+        },
+        {
+          chapterName: 'C12 Vue Demo'
         }
       ]
     }
@@ -102,6 +105,10 @@ export default {
         case 11:
           // C11 UI一致性
           this.$router.push('/C11')
+          break
+        case 12:
+          // C12 Vue Demo
+          this.$router.push('/C12')
           break
       }
     }
